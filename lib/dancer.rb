@@ -3,4 +3,4 @@ require_relative './dance_module.rb'
 
 class Dancer
 
-ends
+end
